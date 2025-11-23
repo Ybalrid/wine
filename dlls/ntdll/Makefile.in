@@ -71,7 +71,8 @@ SOURCES = \
 	unwind.c \
 	version.c \
 	version.rc \
-	wcstring.c
+	wcstring.c \
+	yba.c
 
 EXTRA_OBJS = unix/version.o
 
