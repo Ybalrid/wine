@@ -1,3 +1,4 @@
+#include <stdarg.h>
 #include "ntstatus.h"
 #include "winternl.h"
 
